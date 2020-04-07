@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/naya/static/css/main.71850710.chunk.css",
+    "main.js": "/naya/static/js/main.08a5bc6f.chunk.js",
+    "main.js.map": "/naya/static/js/main.08a5bc6f.chunk.js.map",
+    "runtime-main.js": "/naya/static/js/runtime-main.1040eca9.js",
+    "runtime-main.js.map": "/naya/static/js/runtime-main.1040eca9.js.map",
+    "static/js/2.230d5876.chunk.js": "/naya/static/js/2.230d5876.chunk.js",
+    "static/js/2.230d5876.chunk.js.map": "/naya/static/js/2.230d5876.chunk.js.map",
+    "index.html": "/naya/index.html",
+    "precache-manifest.34d635c446ca8de95dd11c1e657ddb0e.js": "/naya/precache-manifest.34d635c446ca8de95dd11c1e657ddb0e.js",
+    "service-worker.js": "/naya/service-worker.js",
+    "static/css/main.71850710.chunk.css.map": "/naya/static/css/main.71850710.chunk.css.map",
+    "static/js/2.230d5876.chunk.js.LICENSE.txt": "/naya/static/js/2.230d5876.chunk.js.LICENSE.txt",
+    "static/media/360.png": "/naya/static/media/360.ddbdf10c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1040eca9.js",
+    "static/js/2.230d5876.chunk.js",
+    "static/css/main.71850710.chunk.css",
+    "static/js/main.08a5bc6f.chunk.js"
+  ]
+}
