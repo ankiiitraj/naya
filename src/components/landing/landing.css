@@ -1,0 +1,12 @@
+.landing{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 20px;
+}
+.landing div{
+    margin: 0px 50px;
+
+}

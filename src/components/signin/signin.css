@@ -1,0 +1,11 @@
+.signin{
+    width: max-content;
+    margin: 10px;
+    padding: 5px;
+}
+.signin label, input{
+    display: block;
+}
+.signin label{
+    text-align: left;
+}

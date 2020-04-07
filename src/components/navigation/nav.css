@@ -1,0 +1,6 @@
+.nav ul{
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0px;
+}
